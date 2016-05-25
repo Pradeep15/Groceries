@@ -73,8 +73,11 @@ public class TestCreateGlobalProduct extends SuperClass
 		HelperMethods.wait5Sec();
 		
 		driver.findElement(By.className("android.widget.ImageButton")).click();
+		logger.info("Clicked Back Button");
 		HelperMethods.wait2Sec();
+		
 		driver.findElement(By.className("android.widget.ImageButton")).click();
+		logger.info("Clicked Back Button");
 		HelperMethods.wait2Sec();
 
 	}
@@ -88,6 +91,7 @@ public class TestCreateGlobalProduct extends SuperClass
 		
 		HelperMethods hm=new HelperMethods(driver);
 		hm.verifyCreatedProduct("cigarattes & alcohol", "Wine", "Carl Jung Merlot Red Wine 750ml");
+		
 		
 	}	
 	
