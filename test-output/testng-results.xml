@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="130626" started-at="2016-05-25T07:01:33Z" finished-at="2016-05-25T07:03:44Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="130626" started-at="2016-05-25T07:01:33Z" finished-at="2016-05-25T07:03:44Z">
+      <class name="com.retailer.testcases.TestSettings">
+        <test-method status="PASS" signature="launchApp()[pri:0, instance:com.retailer.testcases.TestSettings@7921b0a2]" name="launchApp" is-config="true" duration-ms="51738" started-at="2016-05-25T12:31:33Z" finished-at="2016-05-25T12:32:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method status="PASS" signature="modifyDelivery()[pri:0, instance:com.retailer.testcases.TestSettings@7921b0a2]" name="modifyDelivery" duration-ms="47116" started-at="2016-05-25T12:32:25Z" finished-at="2016-05-25T12:33:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- modifyDelivery -->
+        <test-method status="PASS" signature="chooseCity()[pri:1, instance:com.retailer.testcases.TestSettings@7921b0a2]" name="chooseCity" duration-ms="30975" started-at="2016-05-25T12:33:12Z" finished-at="2016-05-25T12:33:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chooseCity -->
+        <test-method status="PASS" signature="closeApp()[pri:0, instance:com.retailer.testcases.TestSettings@7921b0a2]" name="closeApp" is-config="true" duration-ms="781" started-at="2016-05-25T12:33:43Z" finished-at="2016-05-25T12:33:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- com.retailer.testcases.TestSettings -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,24 @@
+2016-05-24 15:39:47,407 - Google -INFO - Implicit wait given
+2016-05-24 15:40:02,897 - Google -INFO - App Opened
+2016-05-24 16:09:48,406 - SuperClass -INFO - Implicit wait given
+2016-05-24 16:12:25,204 - SuperClass -INFO - Implicit wait given
+2016-05-24 16:12:42,288 - SuperClass -INFO - App Launched Successfully
+2016-05-24 16:14:25,505 - SuperClass -INFO - Implicit wait given
+2016-05-24 16:16:34,621 - SuperClass -INFO - Implicit wait given
+2016-05-24 16:16:42,573 - SuperClass -INFO - App Launched Successfully
+2016-05-24 16:16:48,304 - TestSettings -INFO - Clicked Menu
+2016-05-24 16:16:51,221 - TestSettings -INFO - Clicked Settings
+2016-05-24 16:16:53,475 - TestSettings -INFO - Clicked on Sunday
+2016-05-24 16:17:04,406 - TestSettings -INFO - Sunday Delivery Timings setting is done
+2016-05-24 16:17:09,712 - TestSettings -INFO - Clicked on Monday
+2016-05-24 16:17:18,615 - TestSettings -INFO - Monday Delivery Timings is done
+2016-05-24 16:17:21,122 - TestSettings -INFO - Clicked on Save Button
+2016-05-25 12:32:09,235 - SuperClass -INFO - Implicit wait given
+2016-05-25 12:32:25,629 - SuperClass -INFO - App Launched Successfully
+2016-05-25 12:32:35,252 - TestSettings -INFO - Clicked Menu
+2016-05-25 12:32:38,269 - TestSettings -INFO - Clicked Settings
+2016-05-25 12:32:40,556 - TestSettings -INFO - Clicked on Sunday
+2016-05-25 12:32:51,002 - TestSettings -INFO - Sunday Delivery Timings setting is done
+2016-05-25 12:32:56,284 - TestSettings -INFO - Clicked on Monday
+2016-05-25 12:33:05,295 - TestSettings -INFO - Monday Delivery Timings is done
+2016-05-25 12:33:07,743 - TestSettings -INFO - Clicked on Save Button
