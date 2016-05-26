@@ -22,3 +22,13 @@
 2016-05-25 12:32:56,284 [main] INFO TestSettings - Clicked on Monday
 2016-05-25 12:33:05,295 [main] INFO TestSettings - Monday Delivery Timings is done
 2016-05-25 12:33:07,743 [main] INFO TestSettings - Clicked on Save Button
+2016-05-26 13:17:16,402 [main] INFO SuperClass - Implicit wait given
+2016-05-26 13:17:16,731 [main] INFO SuperClass - App Launched Successfully
+2016-05-26 13:18:11,825 [main] INFO SuperClass - Implicit wait given
+2016-05-26 13:18:17,123 [main] INFO SuperClass - App Launched Successfully
+2016-05-26 13:20:16,552 [main] INFO SuperClass - Implicit wait given
+2016-05-26 13:20:22,110 [main] INFO SuperClass - App Launched Successfully
+2016-05-26 13:24:31,884 [main] INFO SuperClass - Implicit wait given
+2016-05-26 13:24:38,132 [main] INFO SuperClass - App Launched Successfully
+2016-05-26 13:25:40,310 [main] INFO SuperClass - Implicit wait given
+2016-05-26 13:25:46,324 [main] INFO SuperClass - App Launched Successfully
